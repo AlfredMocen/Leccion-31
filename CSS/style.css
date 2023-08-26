@@ -1,0 +1,15 @@
+a{
+    background-color: rgb(235, 65, 150);
+    text-decoration: none;
+    padding: 15px;
+    color:white;
+    text-align: center;
+}
+
+a:visited{
+    background-color: rgb(222, 146, 184);
+}
+
+a:hover{
+    background-color: chartreuse;
+}
